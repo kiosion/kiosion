@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**kiosion/kiosion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Maxim, a student and digital artist from Canada! My pronouns are <code>they/them</code>. I'm interested in web design and back-end stuff, and am currently studying CS at.
+#
+### Languages 🗣
 
-Here are some ideas to get you started:
+- HTML
+- CSS
+- JS
+- Java
+#
+### Contact 📭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can get in touch with me at hi@kio.dev!
+
+My portfolio is at [kio.dev]
+#
+###
