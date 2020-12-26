@@ -11,4 +11,4 @@ I'm Maxim, a student and digital artist from Canada! My pronouns are <code>they/
 #
 ### Contact 📭
 
-My portfolio is at https://kio.dev/, you can get in touch at hi@kio.dev!
+My socials are all linked at https://kio.social/, and you can get in touch via email at hi@kio.dev!
