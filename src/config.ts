@@ -4,7 +4,7 @@ export default {
     githubRepos: 'https://api.github.com/users/kiosion/repos',
     githubEvents: 'https://api.github.com/users/kiosion/events',
     wakatime: 'https://wakatime.com/api/v1/users/kiosion/stats',
-    music: 'https://toru.kio.dev/api/v1/kiosion?blur&border_width=0',
+    music: 'https://toru.kio.dev/api/v1/kiosion?blur&border_width=0&border_radius=38',
   },
   limits: {
     topRepos: 6,
