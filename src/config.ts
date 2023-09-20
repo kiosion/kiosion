@@ -12,8 +12,8 @@ export default {
     blogPosts: 4,
     recentRepoDays: 30,
     languagesGraph: 14,
-    userActivityMaxEventsPerDay: 5,
-    userActivityMaxDays: 4,
+    userActivityMaxEventsPerDay: 4,
+    userActivityMaxDays: 3,
     wakatimeTimeframe: 'all_time',
   },
   content: {

@@ -18,8 +18,12 @@ lint:
 
 persist: SHELL := /bin/bash
 persist:
-	git config --global user.name "GitHub Actions" &&\
-	git config --global user.email "webmaster@kio.dev" &&\
+	git config --global user.name "kiosion" &&\
+	git config --global user.email "hi@kio.dev" &&\
 	git add -A &&\
-	git commit -m "Updated generated files" &&\
-	git push
+	if [ "$(git log -1 --pretty=%B)" = "chore: Update generated files" ]; then \
+		git commit --amend --no-edit; \
+	else \
+		git commit -m "chore: Update generated files"; \
+	fi &&\
+	git push -f

@@ -211,6 +211,28 @@ export default class Generate {
         sortedEvents[dateString] = [];
       }
 
+      if (event.type === 'PushEvent') {
+        const { commits } = event.payload;
+
+        const messagesToAdd = commits.map((commit) => commit.message);
+
+        sortedEvents[dateString] = sortedEvents[dateString].filter((event) => {
+          if (event.type !== 'PushEvent') {
+            return true;
+          }
+
+          const { commits } = event.payload;
+
+          if (commits.length > 1) {
+            return true;
+          }
+
+          return !commits.some((commit) =>
+            messagesToAdd.includes(commit.message)
+          );
+        });
+      }
+
       sortedEvents[dateString].push(event);
     });
 
