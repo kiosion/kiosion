@@ -1,0 +1,35 @@
+name: Update Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/30 * * * *'
+
+jobs:
+  update:
+    permissions: write-all
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Check format
+        run: make format
+
+      - name: Check lint
+        run: make lint
+
+      - name: Update Readme
+        run: |
+          export GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}"
+          make generate
+
+      - name: Commit changes
+        continue-on-error: true
+        run: make persist
