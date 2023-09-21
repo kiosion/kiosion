@@ -8,6 +8,9 @@
 ## Activity
 
 
+#### September 21
+* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/5435870f3178661dd2206c85145556a50c677c7d) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): chore: Clean up routes, add back btn to posts
+
 #### September 20
 * Opened pull request [#58](https://github.com/spuithori/tokimekibluesky/pull/58) in [`spuithori/tokimekibluesky`](https://github.com/spuithori/tokimekibluesky)
 * Pushed [a commit](https://github.com/kiosion/tokimekibluesky/commit/c7a4947d25750e23b0b9a17c9e290eed38d10ac5) to branch `post-images-no-text` in [`kiosion/tokimekibluesky`](https://github.com/kiosion/tokimekibluesky): feat: Allow posting...
@@ -21,12 +24,6 @@
 * Pushed 2 commits to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
 * Closed pull request [#911](https://github.com/kiosion/kio.dev/pull/911) in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
 * ...and 4 more
-
-#### September 16
-* Deleted branch `design-update` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
-* Pushed 4 commits to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
-* Closed pull request [#912](https://github.com/kiosion/kio.dev/pull/912) in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/f4a0d00088e32fe21d8780183d217a66eac5e7b0) to branch `design-update` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): feat: Rework design
 
 
 ## Listening to
@@ -57,4 +54,4 @@ Gherkin             [                        ] 1% (13h 49m)
 Bash                [                        ] 0% (9h 7m)
 ```
 
-_Updated 2023-09-20, 22:42_
+_Updated 2023-09-20, 23:16_
