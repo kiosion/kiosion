@@ -9,10 +9,11 @@
 
 
 #### September 21
+* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/e72a95b05b01f3ac09d22eefb1a432935f8112df) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Codeblock, nav styles
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/3f889cfe79b23e9473036c98dd1e709ff8fb6f5c) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): chore: Styles/some PT serializer cleanup
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/c4fa9eb8857674967e66754246f6e3fb6c8c06e7) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): feat: Query draft docs w/ param, improve s...
 * Deleted branch `post-images-no-text` in [`kiosion/tokimekibluesky`](https://github.com/kiosion/tokimekibluesky)
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/5435870f3178661dd2206c85145556a50c677c7d) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): chore: Clean up routes, add back btn to posts
+* ...and 1 more
 
 #### September 20
 * Opened pull request [#58](https://github.com/spuithori/tokimekibluesky/pull/58) in [`spuithori/tokimekibluesky`](https://github.com/spuithori/tokimekibluesky)
@@ -57,4 +58,4 @@ Gherkin             [                        ] 1% (13h 49m)
 Bash                [                        ] 0% (9h 7m)
 ```
 
-_Updated 2023-09-21, 18:09_
+_Updated 2023-09-21, 18:34_
