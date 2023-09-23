@@ -9,6 +9,8 @@
 
 
 #### September 23
+* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/d057f2ca09f12a9e95efac7afb81cf6557b81ab8) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Adjust heading margin if first pt ele...
+* Opened pull request [#58](https://github.com/portabletext/svelte\-portabletext/pull/58) in [`portabletext/svelte-portabletext`](https://github.com/portabletext/svelte\-portabletext)
 * Created branch `fix-readme-example` in [`kiosion/svelte-portabletext`](https://github.com/kiosion/svelte\-portabletext)
 * Forked [`svelte-portabletext`](https://github.com/kiosion/svelte\-portabletext)
 
@@ -51,4 +53,4 @@ Gherkin             [                        ] 1% (13h 49m)
 Bash                [                        ] 0% (9h 7m)
 ```
 
-_Updated 2023-09-23, 02:08_
+_Updated 2023-09-23, 02:34_
