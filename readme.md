@@ -8,6 +8,10 @@
 ## Activity
 
 
+#### September 23
+* Created branch `fix-readme-example` in [`kiosion/svelte-portabletext`](https://github.com/kiosion/svelte\-portabletext)
+* Forked [`svelte-portabletext`](https://github.com/kiosion/svelte\-portabletext)
+
 #### September 22
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/629ac882dae1c398cb74113d68471735546a70a3) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): chore: More misc cleanup
 
@@ -17,13 +21,6 @@
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/c4fa9eb8857674967e66754246f6e3fb6c8c06e7) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): feat: Query draft docs w/ param, improve s...
 * Deleted branch `post-images-no-text` in [`kiosion/tokimekibluesky`](https://github.com/kiosion/tokimekibluesky)
 * ...and 1 more
-
-#### September 20
-* Opened pull request [#58](https://github.com/spuithori/tokimekibluesky/pull/58) in [`spuithori/tokimekibluesky`](https://github.com/spuithori/tokimekibluesky)
-* Pushed [a commit](https://github.com/kiosion/tokimekibluesky/commit/c7a4947d25750e23b0b9a17c9e290eed38d10ac5) to branch `post-images-no-text` in [`kiosion/tokimekibluesky`](https://github.com/kiosion/tokimekibluesky): feat: Allow posting...
-* Created branch `post-images-no-text` in [`kiosion/tokimekibluesky`](https://github.com/kiosion/tokimekibluesky)
-* Forked [`tokimekibluesky`](https://github.com/kiosion/tokimekibluesky)
-* ...and 2 more
 
 
 ## Listening to
@@ -54,4 +51,4 @@ Gherkin             [                        ] 1% (13h 49m)
 Bash                [                        ] 0% (9h 7m)
 ```
 
-_Updated 2023-09-23, 01:33_
+_Updated 2023-09-23, 02:08_
