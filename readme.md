@@ -8,6 +8,9 @@
 ## Activity
 
 
+#### September 24
+* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/79603ba505d9941656752151823436e2f326b6cd) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Roll back broken deps
+
 #### September 23
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/a131f37e057ea7fa7678bee553fa6749451401b8) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): chore: Update deps, cleanup error handling
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/d057f2ca09f12a9e95efac7afb81cf6557b81ab8) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Adjust heading margin if first pt ele...
@@ -17,13 +20,6 @@
 
 #### September 22
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/629ac882dae1c398cb74113d68471735546a70a3) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): chore: More misc cleanup
-
-#### September 21
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/e72a95b05b01f3ac09d22eefb1a432935f8112df) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Codeblock, nav styles
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/3f889cfe79b23e9473036c98dd1e709ff8fb6f5c) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): chore: Styles/some PT serializer cleanup
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/c4fa9eb8857674967e66754246f6e3fb6c8c06e7) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): feat: Query draft docs w/ param, improve s...
-* Deleted branch `post-images-no-text` in [`kiosion/tokimekibluesky`](https://github.com/kiosion/tokimekibluesky)
-* ...and 1 more
 
 
 ## Listening to
@@ -54,4 +50,4 @@ Gherkin             [                        ] 1% (13h 49m)
 Bash                [                        ] 0% (9h 7m)
 ```
 
-_Updated 2023-09-24, 19:33_
+_Updated 2023-09-24, 20:09_
