@@ -8,6 +8,9 @@
 ## Activity
 
 
+#### September 25
+* Pushed [a commit](https://github.com/kiosion/minbin/commit/603bd1ec955c5a8ee0763d2f1025d441d1ec225e) to branch `main` in [`kiosion/minbin`](https://github.com/kiosion/minbin): chore: Misc syntax cleanup
+
 #### September 24
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/08363f7161387547606046fe7f48b31099cf75ea) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Lang toggle
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/79603ba505d9941656752151823436e2f326b6cd) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Roll back broken deps
@@ -18,9 +21,6 @@
 * Opened pull request [#58](https://github.com/portabletext/svelte\-portabletext/pull/58) in [`portabletext/svelte-portabletext`](https://github.com/portabletext/svelte\-portabletext)
 * Created branch `fix-readme-example` in [`kiosion/svelte-portabletext`](https://github.com/kiosion/svelte\-portabletext)
 * ...and 1 more
-
-#### September 22
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/629ac882dae1c398cb74113d68471735546a70a3) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): chore: More misc cleanup
 
 
 ## Listening to
@@ -51,4 +51,4 @@ Gherkin             [                        ] 1% (13h 49m)
 Bash                [                        ] 0% (9h 7m)
 ```
 
-_Updated 2023-09-25, 14:09_
+_Updated 2023-09-25, 14:34_
