@@ -8,19 +8,15 @@
 ## Activity
 
 
+#### September 27
+* Deleted branch `fix-readme-example` in [`kiosion/svelte-portabletext`](https://github.com/kiosion/svelte\-portabletext)
+
 #### September 25
 * Pushed [a commit](https://github.com/kiosion/minbin/commit/603bd1ec955c5a8ee0763d2f1025d441d1ec225e) to branch `main` in [`kiosion/minbin`](https://github.com/kiosion/minbin): chore: Misc syntax cleanup
 
 #### September 24
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/08363f7161387547606046fe7f48b31099cf75ea) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Lang toggle
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/79603ba505d9941656752151823436e2f326b6cd) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Roll back broken deps
-
-#### September 23
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/a131f37e057ea7fa7678bee553fa6749451401b8) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): chore: Update deps, cleanup error handling
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/d057f2ca09f12a9e95efac7afb81cf6557b81ab8) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Adjust heading margin if first pt ele...
-* Opened pull request [#58](https://github.com/portabletext/svelte\-portabletext/pull/58) in [`portabletext/svelte-portabletext`](https://github.com/portabletext/svelte\-portabletext)
-* Created branch `fix-readme-example` in [`kiosion/svelte-portabletext`](https://github.com/kiosion/svelte\-portabletext)
-* ...and 1 more
 
 
 ## Listening to
@@ -51,4 +47,4 @@ Gherkin             [                        ] 1% (13h 49m)
 Bash                [                        ] 0% (9h 10m)
 ```
 
-_Updated 2023-09-27, 16:01_
+_Updated 2023-09-27, 17:02_
