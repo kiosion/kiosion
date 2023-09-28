@@ -8,15 +8,17 @@
 ## Activity
 
 
+#### September 28
+* Deleted branch `dependabot/hex/mox-1.1.0` in [`kiosion/toru`](https://github.com/kiosion/toru)
+* Pushed 2 commits to branch `main` in [`kiosion/toru`](https://github.com/kiosion/toru)
+* Closed pull request [#32](https://github.com/kiosion/toru/pull/32) in [`kiosion/toru`](https://github.com/kiosion/toru)
+* Reviewed pull request [#32](https://github.com/kiosion/toru/pull/32) in [`kiosion/toru`](https://github.com/kiosion/toru)
+
 #### September 27
 * Deleted branch `fix-readme-example` in [`kiosion/svelte-portabletext`](https://github.com/kiosion/svelte\-portabletext)
 
 #### September 25
 * Pushed [a commit](https://github.com/kiosion/minbin/commit/603bd1ec955c5a8ee0763d2f1025d441d1ec225e) to branch `main` in [`kiosion/minbin`](https://github.com/kiosion/minbin): chore: Misc syntax cleanup
-
-#### September 24
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/08363f7161387547606046fe7f48b31099cf75ea) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Lang toggle
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/79603ba505d9941656752151823436e2f326b6cd) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Roll back broken deps
 
 
 ## Listening to
@@ -47,4 +49,4 @@ Gherkin             [                        ] 1% (13h 49m)
 Bash                [                        ] 0% (9h 10m)
 ```
 
-_Updated 2023-09-28, 13:06_
+_Updated 2023-09-28, 14:01_
