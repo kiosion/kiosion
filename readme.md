@@ -29,11 +29,14 @@
 
 ## Listening to
 
-<a href="https://github.com/kiosion/toru"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://toru.kio.dev/api/v1/kiosion?blur&border_width=0&border_radius=38&theme=nord">
-  <source media="(prefers-color-scheme: light)" srcset="https://toru.kio.dev/api/v1/kiosion?blur&border_width=0&border_radius=38&theme=light">
-  <img alt="Last.fm Activity" src="https://toru.kio.dev/api/v1/kiosion?blur&border_width=0&border_radius=38" height="115" />
-</picture></a>
+
+<a href="https://github.com/kiosion/toru">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://toru.kio.dev/api/v1/kiosion?blur&border_width=0&border_radius=38&theme=nord">
+    <source media="(prefers-color-scheme: light)" srcset="https://toru.kio.dev/api/v1/kiosion?blur&border_width=0&border_radius=38&theme=light">
+    <img alt="Last.fm Activity" src="https://toru.kio.dev/api/v1/kiosion?blur&border_width=0&border_radius=38" height="115" />
+  </picture>
+</a>
 
 
 ## Top languages
@@ -55,4 +58,4 @@ Gherkin             [                        ] 1% (13h 49m)
 Bash                [                        ] 0% (9h 10m)
 ```
 
-_Updated 2023-10-03, 22:42_
+_Updated 2023-10-03, 22:58_
