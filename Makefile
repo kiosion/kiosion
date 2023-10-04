@@ -19,7 +19,7 @@ lint:
 persist: SHELL := /bin/bash
 persist:
 	git config --global user.name "GitHub Actions" &&\
-	git config --global user.email "hi@kio.dev" &&\
+	git config --global user.email "actions@github.com" &&\
 	git add -A &&\
 	if [ "$(git log -1 --pretty=%B)" = "chore: Update generated files" ]; then \
 		git commit --amend --no-edit; \
