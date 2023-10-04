@@ -8,6 +8,10 @@
 ## Activity
 
 
+#### October 4
+* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/4586240d525f44e435e32ae91fa0284a8ffe4f65) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Prevent loader svg FOUC
+* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/83f310147c73cd117a2bbfd7e08ce394b6e688b2) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): feat: Improve chunking, vite preproccessing
+
 #### October 3
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/4aaeb6d6aa1239fff8a484fea1a7238c84cfe4a8) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): feat: Improve chunking, vite preproccessing
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/ccfb90f4e55856d328686b0ed06e053d1f952d46) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Fixup meta tags
@@ -21,9 +25,6 @@
 * Starred [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
 * Deleted branch `revert-34-revert-33-cleanup-funcs` in [`kiosion/toru`](https://github.com/kiosion/toru)
 * ...and 17 more
-
-#### October 1
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/a75316d0d440d686c76892f95dd655c1e3b02842) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Translate module
 
 
 ## Listening to
@@ -54,4 +55,4 @@ Gherkin             [                        ] 1% (13h 49m)
 Bash                [                        ] 0% (9h 10m)
 ```
 
-_Updated 2023-10-03, 21:26_
+_Updated 2023-10-03, 22:42_
