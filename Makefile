@@ -18,7 +18,7 @@ lint:
 
 persist: SHELL := /bin/bash
 persist:
-	git config --global user.name "kiosion" &&\
+	git config --global user.name "GitHub Actions" &&\
 	git config --global user.email "hi@kio.dev" &&\
 	git add -A &&\
 	if [ "$(git log -1 --pretty=%B)" = "chore: Update generated files" ]; then \

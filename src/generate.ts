@@ -80,11 +80,14 @@ export default class Generate {
   }
 
   private parseMusicActivity() {
-    return `<a href="https://github.com/kiosion/toru"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="${config.endpoints.music}&theme=nord">
-  <source media="(prefers-color-scheme: light)" srcset="${config.endpoints.music}&theme=light">
-  <img alt="Last.fm Activity" src="${config.endpoints.music}" height="115" />
-</picture></a>`;
+    return `
+<a href="https://github.com/kiosion/toru">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="${config.endpoints.music}&theme=nord">
+    <source media="(prefers-color-scheme: light)" srcset="${config.endpoints.music}&theme=light">
+    <img alt="Last.fm Activity" src="${config.endpoints.music}" height="115" />
+  </picture>
+</a>`;
   }
 
   private parseBlogPosts() {
