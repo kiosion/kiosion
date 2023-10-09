@@ -8,6 +8,9 @@
 ## Activity
 
 
+#### October 9
+* Starred [`microsoft/TypeScript`](https://github.com/microsoft/TypeScript)
+
 #### October 6
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/9fc12bbbacd2237402651b585ee9975c328bbe79) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: sidebar positioning, contrast
 * Deleted branch `many-changes` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
@@ -21,11 +24,6 @@
 * Closed pull request [#934](https://github.com/kiosion/kio.dev/pull/934) in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
 * Opened pull request [#934](https://github.com/kiosion/kio.dev/pull/934) in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
 * ...and 1 more
-
-#### October 4
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/ca7a507c92e0cb1bb52b0a7028748e9a27c3716b) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): chore: Clean up dynamic code imports, types
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/4586240d525f44e435e32ae91fa0284a8ffe4f65) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Prevent loader svg FOUC
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/83f310147c73cd117a2bbfd7e08ce394b6e688b2) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): feat: Improve chunking, vite preproccessing
 
 
 ## Listening to
@@ -59,4 +57,4 @@ Gherkin             [                        ] 1% (13h 49m)
 Bash                [                        ] 0% (9h 10m)
 ```
 
-_Updated 2023-10-09, 17:01_
+_Updated 2023-10-09, 18:02_
