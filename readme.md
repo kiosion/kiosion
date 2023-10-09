@@ -33,9 +33,9 @@
 
 <a href="https://github.com/kiosion/toru">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://toru.kio.dev/api/v1/kiosion?blur&border_width=0&border_radius=38&theme=nord">
-    <source media="(prefers-color-scheme: light)" srcset="https://toru.kio.dev/api/v1/kiosion?blur&border_width=0&border_radius=38&theme=light">
-    <img alt="Last.fm Activity" src="https://toru.kio.dev/api/v1/kiosion?blur&border_width=0&border_radius=38" height="115" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://toru.kio.dev/api/v1/kiosion?blur&border_width=0&border_radius=26&theme=nord">
+    <source media="(prefers-color-scheme: light)" srcset="https://toru.kio.dev/api/v1/kiosion?blur&border_width=0&border_radius=26&theme=light">
+    <img alt="Last.fm Activity" src="https://toru.kio.dev/api/v1/kiosion?blur&border_width=0&border_radius=26" height="115" />
   </picture>
 </a>
 
@@ -59,4 +59,4 @@ Gherkin             [                        ] 1% (13h 49m)
 Bash                [                        ] 0% (9h 10m)
 ```
 
-_Updated 2023-10-09, 16:01_
+_Updated 2023-10-09, 16:36_
