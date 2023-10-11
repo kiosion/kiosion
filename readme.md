@@ -8,6 +8,9 @@
 ## Activity
 
 
+#### October 11
+* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/912fdbfe0fd36599934fd1586489aed1ded22079) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Show active heading in sidebar
+
 #### October 9
 * Starred [`microsoft/TypeScript`](https://github.com/microsoft/TypeScript)
 
@@ -17,13 +20,6 @@
 * Pushed 2 commits to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
 * Closed pull request [#937](https://github.com/kiosion/kio.dev/pull/937) in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
 * ...and 3 more
-
-#### October 5
-* Deleted branch `rework-scss` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
-* Pushed 2 commits to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
-* Closed pull request [#934](https://github.com/kiosion/kio.dev/pull/934) in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
-* Opened pull request [#934](https://github.com/kiosion/kio.dev/pull/934) in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
-* ...and 1 more
 
 
 ## Listening to
@@ -57,4 +53,4 @@ Gherkin             [                        ] 1% (13h 49m)
 Bash                [                        ] 0% (9h 10m)
 ```
 
-_Updated 2023-10-10, 21:26_
+_Updated 2023-10-10, 22:40_
