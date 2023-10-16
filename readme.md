@@ -8,18 +8,14 @@
 ## Activity
 
 
+#### October 16
+* Starred [`zookzook/elixir-mongodb-driver`](https://github.com/zookzook/elixir\-mongodb\-driver)
+
 #### October 11
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/912fdbfe0fd36599934fd1586489aed1ded22079) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Show active heading in sidebar
 
 #### October 9
 * Starred [`microsoft/TypeScript`](https://github.com/microsoft/TypeScript)
-
-#### October 6
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/9fc12bbbacd2237402651b585ee9975c328bbe79) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: sidebar positioning, contrast
-* Deleted branch `many-changes` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
-* Pushed 2 commits to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
-* Closed pull request [#937](https://github.com/kiosion/kio.dev/pull/937) in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
-* ...and 3 more
 
 
 ## Listening to
@@ -53,4 +49,4 @@ Gherkin             [                        ] 1% (13h 49m)
 Bash                [                        ] 0% (9h 16m)
 ```
 
-_Updated 2023-10-16, 10:09_
+_Updated 2023-10-16, 11:02_
