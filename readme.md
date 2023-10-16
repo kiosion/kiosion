@@ -9,6 +9,7 @@
 
 
 #### October 16
+* Starred [`frappe/charts`](https://github.com/frappe/charts)
 * Starred [`zookzook/elixir-mongodb-driver`](https://github.com/zookzook/elixir\-mongodb\-driver)
 
 #### October 11
@@ -49,4 +50,4 @@ Gherkin             [                        ] 1% (13h 49m)
 Bash                [                        ] 0% (9h 16m)
 ```
 
-_Updated 2023-10-16, 17:03_
+_Updated 2023-10-16, 18:02_
