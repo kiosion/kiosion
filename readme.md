@@ -8,15 +8,15 @@
 ## Activity
 
 
+#### October 17
+* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/cdf411a649764d4edb5fb3099cc9c156b48ecb8a) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Misc responsive stuff
+
 #### October 16
 * Starred [`frappe/charts`](https://github.com/frappe/charts)
 * Starred [`zookzook/elixir-mongodb-driver`](https://github.com/zookzook/elixir\-mongodb\-driver)
 
 #### October 11
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/912fdbfe0fd36599934fd1586489aed1ded22079) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Show active heading in sidebar
-
-#### October 9
-* Starred [`microsoft/TypeScript`](https://github.com/microsoft/TypeScript)
 
 
 ## Listening to
@@ -50,4 +50,4 @@ Gherkin             [                        ] 1% (13h 49m)
 Bash                [                        ] 0% (9h 19m)
 ```
 
-_Updated 2023-10-17, 12:03_
+_Updated 2023-10-17, 13:06_
