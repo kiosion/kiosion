@@ -35,9 +35,9 @@
 
 ```
 JavaScript          [========                ] 33% (667h 27m)
-TypeScript          [=====                   ] 22% (445h 53m)
-Svelte              [====                    ] 16% (318h 18m)
-Handlebars          [==                      ] 10% (207h 3m)
+TypeScript          [=====                   ] 22% (446h 38m)
+Svelte              [====                    ] 16% (318h 42m)
+Handlebars          [==                      ] 10% (207h 49m)
 Elixir              [=                       ] 6% (127h 1m)
 SCSS                [=                       ] 5% (91h 23m)
 Rust                [                        ] 1% (28h 24m)
@@ -50,4 +50,4 @@ Gherkin             [                        ] 1% (13h 49m)
 Bash                [                        ] 0% (9h 19m)
 ```
 
-_Updated 2023-10-18, 24:03_
+_Updated 2023-10-18, 01:08_
