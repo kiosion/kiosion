@@ -8,15 +8,19 @@
 ## Activity
 
 
+#### October 19
+* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/933e4a97047298be568beee210900097afd58376) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): chore: Bump svelte\-app deps
+* Pushed 2 commits to branch `main` in [`kiosion/minbin`](https://github.com/kiosion/minbin)
+* Closed pull request [#16](https://github.com/kiosion/minbin/pull/16) in [`kiosion/minbin`](https://github.com/kiosion/minbin)
+* Closed pull request [#17](https://github.com/kiosion/minbin/pull/17) in [`kiosion/minbin`](https://github.com/kiosion/minbin)
+* ...and 5 more
+
 #### October 17
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/cdf411a649764d4edb5fb3099cc9c156b48ecb8a) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Misc responsive stuff
 
 #### October 16
 * Starred [`frappe/charts`](https://github.com/frappe/charts)
 * Starred [`zookzook/elixir-mongodb-driver`](https://github.com/zookzook/elixir\-mongodb\-driver)
-
-#### October 11
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/912fdbfe0fd36599934fd1586489aed1ded22079) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Show active heading in sidebar
 
 
 ## Listening to
@@ -50,4 +54,4 @@ Gherkin             [                        ] 1% (13h 49m)
 Bash                [                        ] 0% (9h 19m)
 ```
 
-_Updated 2023-10-19, 18:01_
+_Updated 2023-10-19, 19:02_
