@@ -9,6 +9,9 @@
 
 
 #### October 30
+* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/14a0c869e0f3ff924e4f5e3ff7cc99da0e54f9ea) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Misc styles
+* Opened pull request [#213](https://github.com/strideynet/bsky\-furry\-feed/pull/213) in [`strideynet/bsky-furry-feed`](https://github.com/strideynet/bsky\-furry\-feed)
+* Created branch `fix-body-overflow` in [`strideynet/bsky-furry-feed`](https://github.com/strideynet/bsky\-furry\-feed)
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/49bce4a00d63e55c2a8e741315765aad29f9db56) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): chore: Fix mobile responsive, update colours
 
 #### October 24
@@ -55,4 +58,4 @@ Gherkin             [                        ] 1% (13h 49m)
 Bash                [                        ] 0% (9h 19m)
 ```
 
-_Updated 2023-10-30, 18:01_
+_Updated 2023-10-30, 19:01_
