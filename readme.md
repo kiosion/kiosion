@@ -8,6 +8,9 @@
 ## Activity
 
 
+#### October 30
+* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/49bce4a00d63e55c2a8e741315765aad29f9db56) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): chore: Fix mobile responsive, update colours
+
 #### October 24
 * Pushed 2 commits to branch `main` in [`kiosion/toru`](https://github.com/kiosion/toru)
 * Deleted branch `dependabot/hex/ex_doc-0.30.9` in [`kiosion/toru`](https://github.com/kiosion/toru)
@@ -19,9 +22,6 @@
 * Closed pull request [#16](https://github.com/kiosion/minbin/pull/16) in [`kiosion/minbin`](https://github.com/kiosion/minbin)
 * Closed pull request [#17](https://github.com/kiosion/minbin/pull/17) in [`kiosion/minbin`](https://github.com/kiosion/minbin)
 * ...and 5 more
-
-#### October 17
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/cdf411a649764d4edb5fb3099cc9c156b48ecb8a) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Misc responsive stuff
 
 
 ## Listening to
@@ -55,4 +55,4 @@ Gherkin             [                        ] 1% (13h 49m)
 Bash                [                        ] 0% (9h 19m)
 ```
 
-_Updated 2023-10-30, 12:03_
+_Updated 2023-10-30, 13:06_
