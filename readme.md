@@ -8,6 +8,9 @@
 ## Activity
 
 
+#### October 31
+* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/6246e13fcc7225bb7a5e4ffbf704dc9b204fd998) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Misc styles
+
 #### October 30
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/14a0c869e0f3ff924e4f5e3ff7cc99da0e54f9ea) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Misc styles
 * Opened pull request [#213](https://github.com/strideynet/bsky\-furry\-feed/pull/213) in [`strideynet/bsky-furry-feed`](https://github.com/strideynet/bsky\-furry\-feed)
@@ -19,13 +22,6 @@
 * Pushed 2 commits to branch `main` in [`kiosion/toru`](https://github.com/kiosion/toru)
 * Deleted branch `dependabot/hex/ex_doc-0.30.9` in [`kiosion/toru`](https://github.com/kiosion/toru)
 * Closed pull request [#37](https://github.com/kiosion/toru/pull/37) in [`kiosion/toru`](https://github.com/kiosion/toru)
-
-#### October 19
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/933e4a97047298be568beee210900097afd58376) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): chore: Bump svelte\-app deps
-* Pushed 2 commits to branch `main` in [`kiosion/minbin`](https://github.com/kiosion/minbin)
-* Closed pull request [#16](https://github.com/kiosion/minbin/pull/16) in [`kiosion/minbin`](https://github.com/kiosion/minbin)
-* Closed pull request [#17](https://github.com/kiosion/minbin/pull/17) in [`kiosion/minbin`](https://github.com/kiosion/minbin)
-* ...and 5 more
 
 
 ## Listening to
@@ -59,4 +55,4 @@ Gherkin             [                        ] 1% (13h 49m)
 Bash                [                        ] 0% (9h 19m)
 ```
 
-_Updated 2023-10-30, 23:15_
+_Updated 2023-10-31, 24:03_
