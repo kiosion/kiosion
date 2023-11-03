@@ -8,6 +8,13 @@
 ## Activity
 
 
+#### November 3
+* Pushed 2 commits to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
+* Deleted branch `dependabot/npm_and_yarn/sanity-cms/typescript-eslint/eslint-plugin-6.9.0` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
+* Pushed 2 commits to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
+* Closed pull request [#960](https://github.com/kiosion/kio.dev/pull/960) in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
+* ...and 2 more
+
 #### October 31
 * Deleted branch `fix-body-overflow` in [`strideynet/bsky-furry-feed`](https://github.com/strideynet/bsky\-furry\-feed)
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/6246e13fcc7225bb7a5e4ffbf704dc9b204fd998) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Misc styles
@@ -17,11 +24,6 @@
 * Opened pull request [#213](https://github.com/strideynet/bsky\-furry\-feed/pull/213) in [`strideynet/bsky-furry-feed`](https://github.com/strideynet/bsky\-furry\-feed)
 * Created branch `fix-body-overflow` in [`strideynet/bsky-furry-feed`](https://github.com/strideynet/bsky\-furry\-feed)
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/49bce4a00d63e55c2a8e741315765aad29f9db56) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): chore: Fix mobile responsive, update colours
-
-#### October 24
-* Pushed 2 commits to branch `main` in [`kiosion/toru`](https://github.com/kiosion/toru)
-* Deleted branch `dependabot/hex/ex_doc-0.30.9` in [`kiosion/toru`](https://github.com/kiosion/toru)
-* Closed pull request [#37](https://github.com/kiosion/toru/pull/37) in [`kiosion/toru`](https://github.com/kiosion/toru)
 
 
 ## Listening to
@@ -55,4 +57,4 @@ Gherkin             [                        ] 1% (13h 59m)
 Bash                [                        ] 0% (9h 42m)
 ```
 
-_Updated 2023-11-03, 18:01_
+_Updated 2023-11-03, 19:01_
