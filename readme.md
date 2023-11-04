@@ -38,12 +38,12 @@
 ## Top languages
 
 ```
-JavaScript          [========                ] 34% (687h 51m)
-TypeScript          [=====                   ] 22% (458h 16m)
-Svelte              [====                    ] 16% (322h 13m)
+JavaScript          [========                ] 33% (688h 6m)
+TypeScript          [=====                   ] 22% (458h 17m)
+Svelte              [====                    ] 16% (324h 12m)
 Handlebars          [==                      ] 10% (212h 28m)
-Elixir              [=                       ] 6% (127h 7m)
-SCSS                [=                       ] 4% (91h 31m)
+Elixir              [=                       ] 6% (127h 22m)
+SCSS                [=                       ] 4% (91h 33m)
 Rust                [                        ] 1% (28h 24m)
 Python              [                        ] 1% (25h 31m)
 Makefile            [                        ] 1% (22h 20m)
@@ -54,4 +54,4 @@ Gherkin             [                        ] 1% (13h 59m)
 Bash                [                        ] 0% (9h 42m)
 ```
 
-_Updated 2023-11-04, 24:03_
+_Updated 2023-11-04, 01:05_
