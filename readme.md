@@ -9,6 +9,8 @@
 
 
 #### November 4
+* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/be8a2de2e946c27afc0b0d10c87eb88fa3742986) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Remove hardcoded projects query from ...
+* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/8ed93a3336f3a614b4e3283d2ec8b12de6e744ca) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): feat: Rework project structure
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/9c42b70b21ac7905b7582718bec1c624c9b0b0ee) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Edit some colours, translations
 
 #### November 3
@@ -54,4 +56,4 @@ Gherkin             [                        ] 1% (13h 59m)
 Bash                [                        ] 0% (9h 42m)
 ```
 
-_Updated 2023-11-04, 19:01_
+_Updated 2023-11-04, 20:02_
