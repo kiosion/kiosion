@@ -9,11 +9,11 @@
 
 
 #### November 5
+* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/5db3ab604ca89cc938505c661b4b28f4c116ce51) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): feat: Stream images to client instead of p...
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/798c193dfa7c1baef5adf67d3d0576a434582d07) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Oops broken template string
 * Pushed 3 commits to branch `main` in [`kiosion/svelte-breakpoints`](https://github.com/kiosion/svelte\-breakpoints)
 * Pushed [a commit](https://github.com/kiosion/svelte\-breakpoints/commit/802e6f402407116ae00404ae214dbb5d95b123cb) to branch `main` in [`kiosion/svelte-breakpoints`](https://github.com/kiosion/svelte\-breakpoints)
-* Deleted branch `dependabot/npm_and_yarn/postcss-8.4.31` in [`kiosion/svelte-breakpoints`](https://github.com/kiosion/svelte\-breakpoints)
-* ...and 19 more
+* ...and 20 more
 
 #### November 4
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/9bef1d8ac9511547979ca9c25fb99da3118ebbd6) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Constrain image carousel width when l...
@@ -44,11 +44,11 @@
 ## Top languages
 
 ```
-JavaScript          [========                ] 33% (688h 6m)
-TypeScript          [=====                   ] 22% (458h 17m)
-Svelte              [====                    ] 16% (324h 12m)
-Handlebars          [==                      ] 10% (212h 28m)
-Elixir              [=                       ] 6% (127h 22m)
+JavaScript          [========                ] 33% (688h 7m)
+TypeScript          [=====                   ] 22% (459h 2m)
+Svelte              [====                    ] 16% (328h 30m)
+Handlebars          [==                      ] 10% (212h 31m)
+Elixir              [=                       ] 6% (127h 39m)
 SCSS                [=                       ] 4% (91h 33m)
 Rust                [                        ] 1% (28h 24m)
 Python              [                        ] 1% (25h 31m)
@@ -60,4 +60,4 @@ Gherkin             [                        ] 1% (13h 59m)
 Bash                [                        ] 0% (9h 42m)
 ```
 
-_Updated 2023-11-05, 24:03_
+_Updated 2023-11-05, 01:05_
