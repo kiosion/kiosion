@@ -8,7 +8,15 @@
 ## Activity
 
 
+#### November 5
+* Commented on pull request [#921](https://github.com/kiosion/kio.dev/pull/921) in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
+* Deleted branch `dependabot/npm_and_yarn/sanity-cms/babel/traverse-7.23.2` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
+* Pushed 2 commits to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
+* Closed pull request [#948](https://github.com/kiosion/kio.dev/pull/948) in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
+* ...and 10 more
+
 #### November 4
+* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/9bef1d8ac9511547979ca9c25fb99da3118ebbd6) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Constrain image carousel width when l...
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/be8a2de2e946c27afc0b0d10c87eb88fa3742986) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Remove hardcoded projects query from ...
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/8ed93a3336f3a614b4e3283d2ec8b12de6e744ca) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): feat: Rework project structure
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/9c42b70b21ac7905b7582718bec1c624c9b0b0ee) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Edit some colours, translations
@@ -19,10 +27,6 @@
 * Pushed 2 commits to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
 * Closed pull request [#960](https://github.com/kiosion/kio.dev/pull/960) in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
 * ...and 2 more
-
-#### October 31
-* Deleted branch `fix-body-overflow` in [`strideynet/bsky-furry-feed`](https://github.com/strideynet/bsky\-furry\-feed)
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/6246e13fcc7225bb7a5e4ffbf704dc9b204fd998) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Misc styles
 
 
 ## Listening to
@@ -56,4 +60,4 @@ Gherkin             [                        ] 1% (13h 59m)
 Bash                [                        ] 0% (9h 42m)
 ```
 
-_Updated 2023-11-04, 20:02_
+_Updated 2023-11-04, 21:28_
