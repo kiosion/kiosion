@@ -8,6 +8,9 @@
 ## Activity
 
 
+#### November 6
+* Starred [`NullVoxPopuli/limber`](https://github.com/NullVoxPopuli/limber)
+
 #### November 5
 * Pushed 2 commits to branch `main` in [`kiosion/minbin`](https://github.com/kiosion/minbin)
 * Closed pull request [#18](https://github.com/kiosion/minbin/pull/18) in [`kiosion/minbin`](https://github.com/kiosion/minbin)
@@ -20,13 +23,6 @@
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/be8a2de2e946c27afc0b0d10c87eb88fa3742986) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Remove hardcoded projects query from ...
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/8ed93a3336f3a614b4e3283d2ec8b12de6e744ca) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): feat: Rework project structure
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/9c42b70b21ac7905b7582718bec1c624c9b0b0ee) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Edit some colours, translations
-
-#### November 3
-* Pushed 2 commits to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
-* Deleted branch `dependabot/npm_and_yarn/sanity-cms/typescript-eslint/eslint-plugin-6.9.0` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
-* Pushed 2 commits to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
-* Closed pull request [#960](https://github.com/kiosion/kio.dev/pull/960) in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
-* ...and 2 more
 
 
 ## Listening to
@@ -60,4 +56,4 @@ Gherkin             [                        ] 1% (13h 59m)
 Bash                [                        ] 0% (9h 42m)
 ```
 
-_Updated 2023-11-06, 13:02_
+_Updated 2023-11-06, 14:07_
