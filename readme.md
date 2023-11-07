@@ -8,6 +8,9 @@
 ## Activity
 
 
+#### November 7
+* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/d620599221262e7943f6fd1fa8bbc43c3e3982d7) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): feat: Add site footer :)
+
 #### November 6
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/fd1fc4e5b97de8581b75ea4a907d11922a6a39b8) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): feat: Add view counts to UI
 * Pushed [a commit](https://github.com/kiosion/kio.dev/commit/02fc862ba7b21a494abc99e2a111998c2e25ebbb) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): feat: Add document view counts
@@ -19,12 +22,6 @@
 * Deleted branch `dependabot/npm_and_yarn/svelte-app/vitest/ui-0.34.6` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
 * Pushed 2 commits to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev)
 * ...and 34 more
-
-#### November 4
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/9bef1d8ac9511547979ca9c25fb99da3118ebbd6) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Constrain image carousel width when l...
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/be8a2de2e946c27afc0b0d10c87eb88fa3742986) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Remove hardcoded projects query from ...
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/8ed93a3336f3a614b4e3283d2ec8b12de6e744ca) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): feat: Rework project structure
-* Pushed [a commit](https://github.com/kiosion/kio.dev/commit/9c42b70b21ac7905b7582718bec1c624c9b0b0ee) to branch `main` in [`kiosion/kio.dev`](https://github.com/kiosion/kio.dev): fix: Edit some colours, translations
 
 
 ## Listening to
@@ -58,4 +55,4 @@ Gherkin             [                        ] 1% (13h 59m)
 Bash                [                        ] 0% (9h 42m)
 ```
 
-_Updated 2023-11-06, 20:27_
+_Updated 2023-11-06, 21:42_
