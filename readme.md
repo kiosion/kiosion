@@ -7,18 +7,6 @@ I have a blog where I sometimes write about programming and things I find intere
 
 
 
-## What I'm listening to
-
-
-<a href="https://github.com/kiosion/toru">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://toru.kio.dev/api/v1/kiosion?blur&border_width=0&border_radius=26&theme=nord">
-    <source media="(prefers-color-scheme: light)" srcset="https://toru.kio.dev/api/v1/kiosion?blur&border_width=0&border_radius=26&theme=light">
-    <img alt="Last.fm Activity" src="https://toru.kio.dev/api/v1/kiosion?blur&border_width=0&border_radius=26" height="115" />
-  </picture>
-</a>
-
-
 ## My top languages
 
 ```
@@ -36,4 +24,17 @@ Ruby                [                        ] 1% (16h 10m)
 Haskell             [                        ] 1% (14h 26m)
 ```
 
-_Updated 2023-11-07, 23:35_
+
+## What I'm listening to
+
+
+<a href="https://github.com/kiosion/toru">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://toru.kio.dev/api/v1/kiosion?blur&border_width=0&border_radius=26&theme=nord">
+    <source media="(prefers-color-scheme: light)" srcset="https://toru.kio.dev/api/v1/kiosion?blur&border_width=0&border_radius=26&theme=light">
+    <img alt="Last.fm Activity" src="https://toru.kio.dev/api/v1/kiosion?blur&border_width=0&border_radius=26" height="115" />
+  </picture>
+</a>
+
+
+_Updated 2023-11-07, 23:40_
