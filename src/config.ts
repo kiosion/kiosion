@@ -1,3 +1,4 @@
+// deno-fmt-ignore-file
 export default {
   endpoints: {
     blog: 'https://kio.dev/api/v1/get/post/many',
@@ -12,36 +13,18 @@ export default {
     recentRepos: 6,
     blogPosts: 4,
     recentRepoDays: 30,
-    languagesGraph: 14,
+    languagesGraph: 12,
     userActivityMaxEventsPerDay: 4,
     userActivityMaxDays: 3,
     wakatimeTimeframe: 'all_time',
   },
   content: {
-    title: 'Hi there, I\'m Maxim 👋',
-    description:
-      'Full-stack developer, tech enthusiast, and creative polymath hailing from the Great White North (Canada) :)',
+    title: `Hi there, I'm Maxim`,
+    description: `I'm a full-stack software developer based out of Toronto working in Fintech. I like building stuff for the web.
+
+I have a blog where I sometimes write about programming and things I find interesting - [kio.dev](https://kio.dev).
+`
   },
-  skillIcons: [
-    'js',
-    'ts',
-    'scss',
-    'ember',
-    'svelte',
-    'react',
-    'deno',
-    'java',
-    'python',
-    'rust',
-    'ruby',
-    'elixir',
-    'haskell',
-    'bsd',
-    'linux',
-    'docker',
-    'postgres',
-    'cassandra',
-  ],
   languagesIgnore: [
     'json',
     'yaml',

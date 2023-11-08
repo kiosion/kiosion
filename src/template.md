@@ -1,21 +1,15 @@
 <!-- deno-fmt-ignore-file -->
-<div align="center">
-  <h2>{{title}}</h2>
-  <p>{{description}}</p>
-</div>
+## {{title}}
+
+{{description}}
 
 
-## Activity
-
-{{user_activity}}
-
-
-## Listening to
+## What I'm listening to
 
 {{music_activity}}
 
 
-## Top languages
+## My top languages
 
 ```
 {{languages_graph}}

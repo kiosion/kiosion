@@ -1,9 +1,6 @@
 import {
-  fetchBlogPosts,
   fetchUserActivity,
-  fetchUserRepos,
   fetchWakatimeStats,
-  olderThanDays,
   parseDateTime,
   parseUserEvent,
   repeat,
@@ -36,22 +33,14 @@ export default class Generate {
     const GITHUB_TOKEN = Deno.env.get('GITHUB_TOKEN') || this.env.GITHUB_TOKEN;
 
     const fetchedData = await Promise.all([
-      fetchUserRepos(GITHUB_TOKEN),
       fetchUserActivity(GITHUB_TOKEN),
       fetchWakatimeStats(),
-      fetchBlogPosts(),
     ]);
 
-    this.userRepos = fetchedData[0];
-    this.userActivity = fetchedData[1];
-    this.wakatimeStats = fetchedData[2];
-    this.blogPosts = fetchedData[3];
+    this.userActivity = fetchedData[0];
+    this.wakatimeStats = fetchedData[1];
 
     this.placeholders = new Map([
-      ['skill_icons', this.parseSkillIcons],
-      ['recent_repos', this.parseRecentRepos],
-      ['top_repos', this.parseTopRepos],
-      ['blog_posts', this.parseBlogPosts],
       ['user_activity', this.parseUserActivity],
       ['languages_graph', this.parseLanguagesGraph],
       ['music_activity', this.parseMusicActivity],
@@ -88,107 +77,6 @@ export default class Generate {
     <img alt="Last.fm Activity" src="${config.endpoints.music}" height="115" />
   </picture>
 </a>`;
-  }
-
-  private parseBlogPosts() {
-    const lines = [] as string[];
-
-    this.blogPosts.sort((a, b) => {
-      const aDate = parseDateTime(a.date, 'yyyy-MM-dd');
-      const bDate = parseDateTime(b.date, 'yyyy-MM-dd');
-
-      return aDate > bDate ? -1 : aDate < bDate ? 1 : 0;
-    })?.forEach((post) => {
-      const {
-        title,
-        slug,
-        desc,
-        date,
-      } = post;
-
-      lines.push(
-        `* [${title}](https://kio.dev/blog/${
-          encodeURI(slug.current)
-        }): ${desc}${date ? ` - ${date}` : ''}`,
-      );
-    });
-
-    return lines.slice(0, config.limits.blogPosts).join('\n');
-  }
-
-  private parseRecentRepos() {
-    const lines = [] as string[];
-
-    this.userRepos.sort((a, b) => {
-      const aDate = parseDateTime(a.updated_at, 'yyyy-MM-ddTHH:mm:ssZ');
-      const bDate = parseDateTime(b.updated_at, 'yyyy-MM-ddTHH:mm:ssZ');
-
-      return aDate > bDate ? -1 : aDate < bDate ? 1 : 0;
-    })?.filter((repo) => {
-      const { fork, archived, private: isPrivate, updated_at } = repo;
-      return !(fork || archived || isPrivate ||
-        olderThanDays(
-          parseDateTime(updated_at, 'yyyy-MM-ddTHH:mm:ssZ'),
-          config.limits.recentRepoDays,
-        ));
-    })?.forEach((repo) => {
-      const {
-        description,
-        name,
-        html_url: url,
-        owner,
-        stargazers_count: stars,
-      } = repo;
-
-      lines.push(
-        `* [${owner.login}/${name}](${url})${
-          description ? ` ${description}` : ''
-        } ★${stars}`,
-      );
-    });
-
-    return lines.slice(0, config.limits.recentRepos).join('\n');
-  }
-
-  private parseTopRepos() {
-    const lines = [] as string[];
-
-    this.userRepos.sort((a, b) => {
-      const aStars = a.stargazers_count;
-      const bStars = b.stargazers_count;
-
-      return aStars > bStars ? -1 : aStars < bStars ? 1 : 0;
-    })?.filter((repo) => {
-      const { archived, private: isPrivate } = repo;
-      return !(archived || isPrivate);
-    })?.forEach((repo) => {
-      const {
-        owner,
-        name,
-        html_url: url,
-        description,
-        stargazers_count: stars,
-      } = repo;
-
-      lines.push(
-        `* [${owner.login}/${name}](${
-          encodeURI(url)
-        }) ${description} ★${stars}`,
-      );
-    });
-
-    return lines.slice(0, config.limits.topRepos).join('\n');
-  }
-
-  private parseSkillIcons() {
-    const names = config.skillIcons;
-    const baseUrl = new URL('https://skillicons.dev/icons');
-
-    [['i', names.join(',')], ['perline', '9'], ['theme', 'light']].forEach((
-      [key, value],
-    ) => baseUrl.searchParams.append(key, value));
-
-    return `![Skills](${baseUrl.toString()})`;
   }
 
   private parseUserActivity() {
