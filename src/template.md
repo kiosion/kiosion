@@ -15,5 +15,6 @@
 
 {{music_activity}}
 
+<br />
 
 {{updated_at}}
