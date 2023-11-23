@@ -10,18 +10,18 @@ I have a blog where I sometimes write about programming and things I find intere
 ## My top languages
 
 ```
-JavaScript          [========                ] 34% (703h 22m)
-TypeScript          [=====                   ] 22% (468h 44m)
+JavaScript          [========                ] 33% (705h 31m)
+TypeScript          [======                  ] 23% (474h 41m)
 Svelte              [====                    ] 16% (340h 59m)
-Handlebars          [==                      ] 10% (213h 4m)
-Elixir              [=                       ] 6% (134h 37m)
+Handlebars          [==                      ] 10% (214h 8m)
+Elixir              [=                       ] 6% (134h 42m)
 SCSS                [=                       ] 4% (91h 42m)
-Haskell             [                        ] 1% (29h 7m)
+Haskell             [                        ] 1% (29h 34m)
 Rust                [                        ] 1% (28h 24m)
-Python              [                        ] 1% (25h 31m)
+Python              [                        ] 1% (26h 8m)
 Makefile            [                        ] 1% (22h 28m)
 CSS                 [                        ] 1% (21h 45m)
-Ruby                [                        ] 1% (16h 11m)
+Ruby                [                        ] 1% (16h 14m)
 ```
 
 
@@ -38,4 +38,4 @@ Ruby                [                        ] 1% (16h 11m)
 
 <br />
 
-_Updated 2023-11-23, 24:07_
+_Updated 2023-11-23, 01:03_
