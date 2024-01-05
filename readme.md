@@ -10,10 +10,10 @@ I have a blog where I sometimes write about programming and things I find intere
 ## My top languages
 
 ```
-JavaScript          [========                ] 34% (728h 57m)
-TypeScript          [======                  ] 23% (488h 54m)
+JavaScript          [========                ] 34% (734h 4m)
+TypeScript          [======                  ] 23% (489h 13m)
 Svelte              [====                    ] 16% (341h 46m)
-Handlebars          [==                      ] 10% (215h 11m)
+Handlebars          [==                      ] 10% (215h 12m)
 Elixir              [=                       ] 6% (134h 55m)
 SCSS                [=                       ] 4% (91h 45m)
 Haskell             [                        ] 1% (29h 40m)
@@ -38,4 +38,4 @@ Ruby                [                        ] 1% (16h 14m)
 
 <br />
 
-_Updated 2024-01-05, 24:07_
+_Updated 2024-01-05, 01:03_
