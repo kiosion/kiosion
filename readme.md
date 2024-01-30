@@ -7,7 +7,7 @@ I have a blog where I sometimes write about programming and things I find intere
 
 
 
-## My top languages
+## Top langs
 
 ```
 JavaScript          [========                ] 34% (748h 46m)
@@ -25,7 +25,7 @@ Ruby                [                        ] 1% (16h 24m)
 ```
 
 
-## What I'm listening to
+## Now playing
 
 
 <a href="https://github.com/kiosion/toru">
@@ -36,6 +36,3 @@ Ruby                [                        ] 1% (16h 24m)
   </picture>
 </a>
 
-<br />
-
-_Updated 2024-01-30, 04:07_
