@@ -4,17 +4,14 @@
 {{description}}
 
 
-## My top languages
+## Top langs
 
 ```
 {{languages_graph}}
 ```
 
 
-## What I'm listening to
+## Now playing
 
 {{music_activity}}
 
-<br />
-
-{{updated_at}}
