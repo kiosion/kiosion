@@ -10,13 +10,13 @@ I have a blog where I sometimes write about programming and things I find intere
 ## Top langs
 
 ```
-JavaScript          [========                ] 34% (763h 6m)
-TypeScript          [======                  ] 23% (517h 22m)
-Svelte              [====                    ] 16% (349h 11m)
+JavaScript          [========                ] 34% (763h 59m)
+TypeScript          [======                  ] 23% (520h 36m)
+Svelte              [====                    ] 16% (352h 4m)
 Handlebars          [==                      ] 10% (215h 57m)
 Elixir              [=                       ] 6% (142h 0m)
 SCSS                [=                       ] 4% (91h 54m)
-Ruby                [                        ] 1% (30h 36m)
+Ruby                [                        ] 1% (32h 21m)
 Haskell             [                        ] 1% (29h 40m)
 Rust                [                        ] 1% (28h 24m)
 Python              [                        ] 1% (26h 8m)
