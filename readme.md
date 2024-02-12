@@ -12,7 +12,7 @@ I have a blog where I sometimes write about programming and things I find intere
 ```
 JavaScript          [========                ] 34% (764h 54m)
 TypeScript          [======                  ] 23% (532h 41m)
-Svelte              [====                    ] 16% (356h 36m)
+Svelte              [====                    ] 16% (356h 42m)
 Handlebars          [==                      ] 10% (215h 57m)
 Elixir              [=                       ] 6% (142h 0m)
 SCSS                [=                       ] 4% (91h 54m)
