@@ -11,8 +11,8 @@ I have a blog where I sometimes write about programming and things I find intere
 
 ```
 JavaScript          [========                ] 33% (773h 38m)
-TypeScript          [======                  ] 24% (562h 23m)
-Svelte              [====                    ] 16% (383h 39m)
+TypeScript          [======                  ] 24% (562h 34m)
+Svelte              [====                    ] 16% (383h 43m)
 Handlebars          [==                      ] 9% (217h 3m)
 Elixir              [=                       ] 6% (143h 3m)
 SCSS                [=                       ] 4% (92h 35m)
