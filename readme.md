@@ -10,8 +10,8 @@ I have a blog where I sometimes write about programming and things I find intere
 ## Top langs
 
 ```
-JavaScript          [========                ] 32% (786h 44m)
-TypeScript          [======                  ] 24% (589h 55m)
+JavaScript          [========                ] 32% (786h 50m)
+TypeScript          [======                  ] 24% (590h 29m)
 Svelte              [====                    ] 17% (410h 32m)
 Handlebars          [==                      ] 9% (217h 3m)
 Elixir              [=                       ] 6% (144h 5m)
