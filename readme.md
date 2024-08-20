@@ -21,7 +21,7 @@ CSS                 [                        ] 2% (37h 48m)
 Haskell             [                        ] 1% (29h 40m)
 Rust                [                        ] 1% (28h 24m)
 Python              [                        ] 1% (26h 8m)
-Makefile            [                        ] 1% (24h 1m)
+Makefile            [                        ] 1% (24h 4m)
 ```
 
 
