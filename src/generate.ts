@@ -72,9 +72,9 @@ export default class Generate {
     return `
 <a href="https://github.com/kiosion/toru">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="${config.endpoints.music}&theme=nord">
+    <source media="(prefers-color-scheme: dark)" srcset="${config.endpoints.music}&theme=dark">
     <source media="(prefers-color-scheme: light)" srcset="${config.endpoints.music}&theme=light">
-    <img alt="Last.fm Activity" src="${config.endpoints.music}" height="115" />
+    <img alt="Last.fm Activity" src="${config.endpoints.music}" />
   </picture>
 </a>`;
   }
