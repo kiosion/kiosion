@@ -11,10 +11,10 @@ I have a blog where I sometimes write about programming and things I find intere
 
 ```
 JavaScript          [=======                 ] 28% (794h 34m)
-TypeScript          [=======                 ] 28% (787h 55m)
+TypeScript          [=======                 ] 28% (788h 3m)
 Svelte              [====                    ] 16% (450h 35m)
 Handlebars          [==                      ] 8% (217h 3m)
-Go                  [=                       ] 5% (153h 23m)
+Go                  [=                       ] 5% (154h 45m)
 Elixir              [=                       ] 5% (148h 6m)
 SCSS                [=                       ] 3% (93h 46m)
 Ruby                [                        ] 2% (50h 35m)
